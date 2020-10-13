@@ -1,3 +1,4 @@
+This repository is cloned from https://github.com/openshift/openshift-jee-sample.git
 openshift-jee-sample
 ====================
 
